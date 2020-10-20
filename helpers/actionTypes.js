@@ -1,0 +1,6 @@
+export const START_FETCHING = Symbol('START_FETCHING')
+export const START_ADDING = Symbol('START_ADDING')
+export const END_FETCHING = Symbol('END_FETCHING')
+export const FETCH_STORE = Symbol('FETCH_STORE')
+export const ADD_STORE = Symbol('ADD_STORE')
+export const FETCH_IMAGE = Symbol('FETCH_IMAGE')
